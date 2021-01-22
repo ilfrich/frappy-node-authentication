@@ -1,0 +1,10 @@
+.idea/
+.DS_Store
+.babelrc
+.eslintrc.json
+.eslintignore
+*.iml
+npm-debug.log
+src/
+devops/
+.travis.yml
